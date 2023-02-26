@@ -19,7 +19,25 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 ### Precio $1199.00
 ![Tarjeta gráfica RTX 4080X](https://cdna.pcpartpicker.com/static/forever/images/product/aef4e454e4cf6d050fab1c51f63a8b3a.256p.jpg)
 ### Caracteristicas
-[AQUI](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
+Fabricante
+AMD
+
+Recuento de núcleos
+16
+
+Reloj de núcleo de rendimiento
+4,5 GHz
+
+Reloj de aumento de rendimiento
+5,7 GHz
+
+Serie
+AMD Ryzen 9
+
+Socket
+AM5
+
+[Saber mas...](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
 
 ### ¿Porque se escogio?
 La tarjeta gráfica RTX 4080x es una excelente opción para usar con un AMD Ryzen 9 7950x para efectos especiales. Esta tarjeta gráfica ofrece una gran potencia de procesamiento gráfico y memoria, lo que la hace ideal para realizar tareas intensivas como el diseño 3D, la edición de video y los efectos especiales. Además, el AMD Ryzen 9 7950x ofrece un rendimiento de procesamiento de CPU excelente para acompañar la tarjeta gráfica RTX 4080x. Esta combinación de hardware ofrece un rendimiento superior y una calidad de imagen excepcional para la creación de efectos especiales.
@@ -52,4 +70,12 @@ La Tarjeta madre Asus ROG STRIX B650E-F es una buena opción para trabajar en co
 ### ¿Porque se escogio?
 (En proceso)
 
+- ### Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME
+### Precio $99.99
+![Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME](https://cdna.pcpartpicker.com/static/forever/images/product/4e02c24a00f7b79a56489db2acbe3a9b.256p.jpg)
+### Caracteristicas
+[AQUI](https://pcpartpicker.com/product/DDWBD3/samsung-980-pro-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0bam)
+
+### ¿Porque se escogio?
+(En proceso)
 
