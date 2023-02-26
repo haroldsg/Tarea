@@ -6,6 +6,7 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 ## Componentes elegidos
 
 ### Procesador AMD Ryzen 9
+### Precio $573.99
 ![Procesador AMD Ryzen 9](https://cdna.pcpartpicker.com/static/forever/images/product/8de723005cfc1b85071c4abf4d76bd4e.256p.jpg)
 ### Caracteristicas
 [AQUI](https://pcpartpicker.com/product/22XJ7P/amd-ryzen-9-7950x-45-ghz-16-core-processor-100-100000514wof)
@@ -15,6 +16,7 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 
 
 ### Tarjeta gráfica RTX 4080X
+### Precio $1199.00
 ![Tarjeta gráfica RTX 4080X](https://cdna.pcpartpicker.com/static/forever/images/product/aef4e454e4cf6d050fab1c51f63a8b3a.256p.jpg)
 ### Caracteristicas
 [AQUI](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
@@ -24,11 +26,21 @@ La tarjeta gráfica RTX 4080x es una excelente opción para usar con un AMD Ryze
 
 
 ### Tarjeta Madre ROG STRIX B650E-F
+### Precio $294.99
 ![Tarjeta Madre ROG STRIX B650E-F](https://cdna.pcpartpicker.com/static/forever/images/product/b950287e2f141caa4638fc93dc99a6ba.256p.jpg)
 ### Caracteristicas
 [AQUI](https://pcpartpicker.com/product/s8nypg/asus-rog-strix-b650e-f-gaming-wifi-atx-am5-motherboard-rog-strix-b650e-f-gaming-wifi)
 
 ### ¿Porque se escogio?
 La Tarjeta madre Asus ROG STRIX B650E-F es una buena opción para trabajar en conjunto con el procesador AMD Ryzen 9 7950x y la tarjeta de vídeo rtx 4080x en el área de efectos especiales debido a su compatibilidad con la mayoría de los componentes de alta gama, su gran capacidad de overclocking y su rendimiento confiable y estable. Además, esta placa base cuenta con una serie de características diseñadas específicamente para el gaming y la edición de video, como una conectividad de red mejorada y soporte para múltiples tarjetas gráficas.
+
+### Memoria Kingston FURY Beast (2 x 16 GB) DDR5-5200 CL40
+### Precio $119.99
+![Memoria Kingston FURY Beast (2 x 16 GB) DDR5-5200 CL40](https://cdna.pcpartpicker.com/static/forever/images/product/4108ce94c499008912266b2f019d061b.256p.jpg)
+### Caracteristicas
+[AQUI](https://pcpartpicker.com/product/p7Z9TW/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-5200-cl40-memory-kf552c40bbk2-32)
+
+### ¿Porque se escogio?
+(En proceso)
 
 
