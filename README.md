@@ -5,7 +5,7 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 
 ## Componentes elegidos
 
-### Procesador AMD Ryzen 9
+-### Procesador AMD Ryzen 9
 ### Precio $573.99
 ![Procesador AMD Ryzen 9](https://cdna.pcpartpicker.com/static/forever/images/product/8de723005cfc1b85071c4abf4d76bd4e.256p.jpg)
 ### Caracteristicas
