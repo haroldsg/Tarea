@@ -9,7 +9,24 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 ### Precio $573.99
 ![Procesador AMD Ryzen 9](https://cdna.pcpartpicker.com/static/forever/images/product/8de723005cfc1b85071c4abf4d76bd4e.256p.jpg)
 ### Caracteristicas
-[AQUI](https://pcpartpicker.com/product/22XJ7P/amd-ryzen-9-7950x-45-ghz-16-core-processor-100-100000514wof)
+>**Fabricante AMD
+
+>**Recuento de núcleos
+16
+
+>**Reloj de núcleo de rendimiento
+4,5 GHz
+
+>**Reloj de aumento de rendimiento
+5,7 GHz
+
+>**Serie
+AMD Ryzen 9
+
+>**Socket
+AM5
+
+[Saber mas...](https://pcpartpicker.com/product/22XJ7P/amd-ryzen-9-7950x-45-ghz-16-core-processor-100-100000514wof)
 
 ### ¿Porque se escogio?
 El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento de efectos especiales. Ofrece una mayor cantidad de núcleos y threads, además de una mayor frecuencia de reloj, lo que le permite realizar tareas de procesamiento más rápido que los procesadores Intel. Además, los usuarios también pueden disfrutar de los beneficios de la tecnología de memoria de alto rendimiento de AMD, lo que les permite aprovechar al máximo el rendimiento del procesador.
@@ -19,23 +36,6 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 ### Precio $1199.00
 ![Tarjeta gráfica RTX 4080X](https://cdna.pcpartpicker.com/static/forever/images/product/aef4e454e4cf6d050fab1c51f63a8b3a.256p.jpg)
 ### Caracteristicas
-Fabricante
-AMD
-
-Recuento de núcleos
-16
-
-Reloj de núcleo de rendimiento
-4,5 GHz
-
-Reloj de aumento de rendimiento
-5,7 GHz
-
-Serie
-AMD Ryzen 9
-
-Socket
-AM5
 
 [Saber mas...](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
 
