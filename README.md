@@ -15,7 +15,7 @@ El procesador AMD Ryzen 9 7950X ofrece un gran rendimiento para el procesamiento
 
 ### Tarjeta gráfica RTX 4080X
 ![Tarjeta gráfica RTX 4080X](https://cdna.pcpartpicker.com/static/forever/images/product/aef4e454e4cf6d050fab1c51f63a8b3a.256p.jpg)
-###Caracteristicas
+### Caracteristicas
 [AQUI](https://pcpartpicker.com/product/yRLFf7/asus-tuf-gaming-geforce-rtx-4080-16-gb-video-card-tuf-rtx4080-16g-gaming)
 
 ### ¿Porque se escogio?
