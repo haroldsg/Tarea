@@ -194,7 +194,7 @@ DIMM de 288 pines (DDR5)
 
 - ### Pasta térmica  PK-3
 ### Precio $11.00
-![Pasta térmica  PK-3(https://cdna.pcpartpicker.com/static/forever/images/product/2c0d434200d51ec591b01eafaf448774.256p.jpg)
+![Pasta térmica  PK-3](https://cdna.pcpartpicker.com/static/forever/images/product/2c0d434200d51ec591b01eafaf448774.256p.jpg)
 ### Caracteristicas
 >Fabricante Prolimatech
 
