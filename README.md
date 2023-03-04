@@ -109,20 +109,36 @@ DIMM de 288 pines (DDR5)
 ### ¿Porque se escogio?
 (En proceso)
 
-- ### Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME
+- ### Unidad de almacenamiento M.2-2280 PCIe
 ### Precio $99.99
 ![Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME](https://cdna.pcpartpicker.com/static/forever/images/product/4e02c24a00f7b79a56489db2acbe3a9b.256p.jpg)
 ### Caracteristicas
-[AQUI](https://pcpartpicker.com/product/DDWBD3/samsung-980-pro-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0bam)
+>Fabricante Samsung
+
+>Capacidad 1 TB
+
+>Cache 1024 MB
+
+>Tipo SSD
+
+[Saber mas...](https://pcpartpicker.com/product/DDWBD3/samsung-980-pro-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0bam)
 
 ### ¿Porque se escogio?
 (En proceso)
 
-- ### Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME
-### Precio $99.99
-![Unidad de almacenamiento 1 TB Samsung M.2-2280 PCIe 4.0 X4 NVME](https://cdna.pcpartpicker.com/static/forever/images/product/4e02c24a00f7b79a56489db2acbe3a9b.256p.jpg)
+- ### Fuente de alimentación HX1200i
+### Precio $309.99
+![Fuente de alimentación Corsair HX1200i](https://m.media-amazon.com/images/I/51Bi2XFY4gL.jpg)
 ### Caracteristicas
-[AQUI](https://pcpartpicker.com/product/DDWBD3/samsung-980-pro-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0bam)
+Fabricante Corsair
+
+Tipo ATX
+
+Potencia 1200W
+
+Longitud 200mm
+
+[AQUI](https://pcpartpicker.com/product/dFdFf7/corsair-power-supply-cp9020070na)
 
 ### ¿Porque se escogio?
 (En proceso)
