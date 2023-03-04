@@ -177,3 +177,33 @@ DIMM de 288 pines (DDR5)
 ### ¿Porque se escogio?
 (En proceso)
 
+
+- ### Caja GT502 ATX
+### Precio $169.99
+![Caja GT502 ATX](https://cdna.pcpartpicker.com/static/forever/images/product/5deeaf924f2581fd0676d61583a3246a.256p.jpg)
+### Caracteristicas
+>Fabricante Asus
+
+>Tipo Torre media ATX
+
+[Saber mas...](https://pcpartpicker.com/product/gQC48d/asus-tuf-gaming-gt502-atx-mid-tower-case-gt502blktg)
+
+### ¿Porque se escogio?
+(En proceso)
+
+
+- ### Pasta térmica  PK-3
+### Precio $11.00
+![Pasta térmica  PK-3(https://cdna.pcpartpicker.com/static/forever/images/product/2c0d434200d51ec591b01eafaf448774.256p.jpg)
+### Caracteristicas
+>Fabricante Prolimatech
+
+>Modelo PK-3 Nano Aluminio de alto grado
+
+>Cantidad 1,5 gramos
+
+[Saber mas...](https://pcpartpicker.com/product/h3Lypg/prolimatech-thermal-paste-propk315g)
+
+### ¿Porque se escogio?
+(En proceso)
+
