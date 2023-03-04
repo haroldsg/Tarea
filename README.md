@@ -207,3 +207,5 @@ DIMM de 288 pines (DDR5)
 ### ¿Porque se escogio?
 (En proceso)
 
+
+## Presupuesto total $2953.12
