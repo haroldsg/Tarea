@@ -130,16 +130,31 @@ DIMM de 288 pines (DDR5)
 ### Precio $309.99
 ![Fuente de alimentación Corsair HX1200i](https://m.media-amazon.com/images/I/51Bi2XFY4gL.jpg)
 ### Caracteristicas
-Fabricante Corsair
+>Fabricante Corsair
 
-Tipo ATX
+>Tipo ATX
 
-Potencia 1200W
+>Potencia 1200W
 
-Longitud 200mm
+>Longitud 200mm
 
-[AQUI](https://pcpartpicker.com/product/dFdFf7/corsair-power-supply-cp9020070na)
+[Saber mas...](https://pcpartpicker.com/product/dFdFf7/corsair-power-supply-cp9020070na)
 
 ### ¿Porque se escogio?
 (En proceso)
 
+
+- ### Refrigerador líquido iCUE H100i ELITE CAPELLIX
+### Precio $149.99
+![Refrigerador líquido iCUE H100i ELITE CAPELLIX](https://cdna.pcpartpicker.com/static/forever/images/product/3e80087537051bd56fa7650e7d61516d.256p.jpg)
+### Caracteristicas
+Fabricante Corsair
+
+RPM del ventilador 2400 RPM
+
+Refrigerado por agua: Sí - 240 mm
+
+[Saber mas...](https://pcpartpicker.com/product/VDWBD3/corsair-icue-h100i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060046-ww)
+
+### ¿Porque se escogio?
+(En proceso)
