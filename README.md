@@ -128,7 +128,7 @@ DIMM de 288 pines (DDR5)
 
 - ### Fuente de alimentación HX1200i
 ### Precio $309.99
-![Fuente de alimentación Corsair HX1200i](https://m.media-amazon.com/images/I/51Bi2XFY4gL.jpg)
+![Fuente de alimentación HX1200i](https://m.media-amazon.com/images/I/51Bi2XFY4gL.jpg)
 ### Caracteristicas
 >Fabricante Corsair
 
@@ -148,13 +148,32 @@ DIMM de 288 pines (DDR5)
 ### Precio $149.99
 ![Refrigerador líquido iCUE H100i ELITE CAPELLIX](https://cdna.pcpartpicker.com/static/forever/images/product/3e80087537051bd56fa7650e7d61516d.256p.jpg)
 ### Caracteristicas
-Fabricante Corsair
+>Fabricante Corsair
 
-RPM del ventilador 2400 RPM
+>RPM del ventilador 2400 RPM
 
-Refrigerado por agua: Sí - 240 mm
+>Refrigerado por agua: Sí - 240 mm
 
 [Saber mas...](https://pcpartpicker.com/product/VDWBD3/corsair-icue-h100i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060046-ww)
 
 ### ¿Porque se escogio?
 (En proceso)
+
+
+- ### Ventilador iCUE SP120 RGB ELITE
+### Precio $24.19
+![Ventilador iCUE SP120 RGB ELITE](https://cdna.pcpartpicker.com/static/forever/images/product/3721abd9b07452461d7dcae78306355e.256p.jpg)
+### Caracteristicas
+>Fabricante Corsair
+
+>Tamaño 120mm
+
+>Cantidad Soltero
+
+>RPM 400 - 1500 RPM
+
+[Saber mas...](https://pcpartpicker.com/product/M9Gbt6/corsair-icue-sp120-rgb-elite-477-cfm-120-mm-fan-co-9050108-ww)
+
+### ¿Porque se escogio?
+(En proceso)
+
