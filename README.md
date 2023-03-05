@@ -107,7 +107,7 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/p7Z9TW/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-5200-cl40-memory-kf552c40bbk2-32)
 
 ### ¿Porque se escogio?
-(En proceso)
+La memoria RAM Kingston FURY Beast es una buena eleccion al trabajar con grandes imagenes y efectos especiales, se necesitara procesar ese gran volumen de datos por ello se recomienda colocar una suma de 64GB de RAM en total pero para ajustarnos al presupuesto colocamos una suma de 32GB de RAM que sigue estando bien, para que este trabaje junto al procesador y no se alente en las operaciones.
 
 - ### Unidad de almacenamiento M.2-2280 PCIe
 ### Precio $99.99
@@ -124,7 +124,7 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/DDWBD3/samsung-980-pro-1-tb-m2-2280-nvme-solid-state-drive-mz-v8p1t0bam)
 
 ### ¿Porque se escogio?
-(En proceso)
+Se eligio la unidad de almacenamiento SDD de tipo M.2 ya que trabaja más rapido a la hora de leer y escribir datos y 1TB de espacio es suficiente para almacenar proyectos,imagenes,videos,etc...
 
 - ### Fuente de alimentación HX1200i
 ### Precio $309.99
@@ -141,7 +141,7 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/dFdFf7/corsair-power-supply-cp9020070na)
 
 ### ¿Porque se escogio?
-(En proceso)
+Se escogio una buena fuente de alimentación de 1200W, es suficiente para distribuir energía a las diferentes partes de los componentes de la pc.
 
 
 - ### Refrigerador líquido iCUE H100i ELITE CAPELLIX
@@ -157,31 +157,32 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/VDWBD3/corsair-icue-h100i-elite-capellix-75-cfm-liquid-cpu-cooler-cw-9060046-ww)
 
 ### ¿Porque se escogio?
-(En proceso)
+Al trabajar con un potente procesador como el que tenemos se necesita un disipador de refrigeración por agua para mantener frío el procesador y no se queme el procesador. 
 
 
-- ### Ventilador iCUE SP120 RGB ELITE
-### Precio $24.19
-![Ventilador iCUE SP120 RGB ELITE](https://cdna.pcpartpicker.com/static/forever/images/product/3721abd9b07452461d7dcae78306355e.256p.jpg)
+- ### Ventilador SickleFlow 62 CFM
+### Precio $61.00
+![Ventilador iCUE SP120 RGB ELITE](https://cdna.pcpartpicker.com/static/forever/images/product/3bc00832e5e8ffb3767246564b3c58c7.256p.jpg)
 ### Caracteristicas
->Fabricante Corsair
+>Fabricante Cooler Master
 
 >Tamaño 120mm
 
->Cantidad Soltero
+>Cantidad 3-pack
 
->RPM 400 - 1500 RPM
+>RPM 650 - 1800 RPM
 
-[Saber mas...](https://pcpartpicker.com/product/M9Gbt6/corsair-icue-sp120-rgb-elite-477-cfm-120-mm-fan-co-9050108-ww)
+[Saber mas...](https://pcpartpicker.com/product/FCvqqs/cooler-master-sickleflow-62-cfm-120-mm-fans-3-pack-mfx-b2dn-183pa-r1)
 
 ### ¿Porque se escogio?
-(En proceso)
+Ademas de tener el refriegerador liquido para mantener frio el procesador, el ventilador SickleFlow 62 CFM mantiene los demás componentes frios.
 
 
 - ### Caja GT502 ATX
 ### Precio $169.99
 ![Caja GT502 ATX](https://cdna.pcpartpicker.com/static/forever/images/product/5deeaf924f2581fd0676d61583a3246a.256p.jpg)
 ### Caracteristicas
+
 >Fabricante Asus
 
 >Tipo Torre media ATX
@@ -189,7 +190,7 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/gQC48d/asus-tuf-gaming-gt502-atx-mid-tower-case-gt502blktg)
 
 ### ¿Porque se escogio?
-(En proceso)
+Usamos un caja GT502 ATX cumple con cada uno de las dimensiones de los componentes incluyendo la tarjeta gráfica y el sistema de enfriamineto.
 
 
 - ### Pasta térmica  PK-3
@@ -205,7 +206,14 @@ DIMM de 288 pines (DDR5)
 [Saber mas...](https://pcpartpicker.com/product/h3Lypg/prolimatech-thermal-paste-propk315g)
 
 ### ¿Porque se escogio?
-(En proceso)
+La pasta térmica  PK-3 funciona como un enlace entre el procesador y el sistema de enfriamiento líquido, Mientras mejor sea la pasta térmica mejor será la transferencia de calor y de esa manera el sistema de enfriamiento ayuda al rendimiento de la PC.
 
 
-## Presupuesto total $2953.12
+## Presupuesto total $
+
+## Trabajo hecho por: 
+Harold Franco
+CI:28.330.946
+
+Moises Merza
+CI: 
