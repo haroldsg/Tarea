@@ -14,14 +14,9 @@ El objetivo de un ordenador para producción audiovisual es proporcionar una her
 >Numero de núcleos
 16
 
->Reloj de núcleo de rendimiento
-4,5 GHz
+>Frecuencia de reloj base 4.5GHz
 
->Reloj de aumento de rendimiento
-5,7 GHz
-
->Serie
-AMD Ryzen 9
+>Soporte a características de overclocking Si, 5.7GHz
 
 >Socket
 AM5
@@ -209,7 +204,7 @@ Usamos un caja GT502 ATX cumple con cada uno de las dimensiones de los component
 La pasta térmica  PK-3 funciona como un enlace entre el procesador y el sistema de enfriamiento líquido, Mientras mejor sea la pasta térmica mejor será la transferencia de calor y de esa manera el sistema de enfriamiento ayuda al rendimiento de la PC.
 
 
-## Presupuesto total $
+## Presupuesto total $2989.93
 
 ## Trabajo hecho por: 
 Harold Franco
